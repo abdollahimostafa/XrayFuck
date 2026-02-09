@@ -86,7 +86,7 @@ export const Footer = ({
                   ))}
                 </div>
               )}
-                      <h1 className="mt-10 text-3xl font-bold text-black/60"> 021-516516</h1>
+                      <h1 className="mt-10 text-3xl font-bold text-black/60">021-44778044</h1>
 
             </div>
           </div>
